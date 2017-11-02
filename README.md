@@ -1,6 +1,7 @@
 "# Lenet" 
 
-run the code by calling:
+run the code by calling:<br>
+
 python lenet.py
 
 
